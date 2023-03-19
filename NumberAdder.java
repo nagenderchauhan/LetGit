@@ -14,6 +14,6 @@ return num1 + num2 ;
 public static void main (String args[])
 {
 int sum=Sum();
-System.out.println("sumof"+sum);
+System.out.println("sum of"+sum);
 }
 }
